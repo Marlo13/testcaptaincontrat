@@ -254,7 +254,6 @@ DEPENDENCIES
   haml-rails
   jbuilder (~> 2.7)
   listen (~> 3.3)
-  mimemagic
   puma (~> 5.0)
   rails (~> 6.1.3)
   rspec-rails
