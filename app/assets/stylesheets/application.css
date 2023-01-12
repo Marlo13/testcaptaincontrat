@@ -85,3 +85,40 @@ button:hover::after{
 button:hover{
     transform: translate(0, -6px);
 }
+
+/* ARENA */
+
+.arena {
+  width: 800px;
+  height: 400px;
+  margin: 0 auto;
+  background-color: burlywood;
+}
+
+.arena-content {
+  display: flex;
+}
+
+.fighter {
+  flex: 1;
+  text-align: center;
+}
+.arena-footer {
+  color: #5e7669;
+  text-align: center;
+  padding: 20px;
+  margin: 5%;
+}
+
+#fight-button {
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  align-content: center;
+}
+
+.titlearena{
+    text-align: center;
+}
